@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Flutter,MEARN STACK**
 
-- 👯 I’m looking to collaborate on **DS Projects**
+- 👯 I’m looking to collaborate on **DS & DevOps Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@manojalladawar1234](https://medium.com/@manojalladawar1234)
 
